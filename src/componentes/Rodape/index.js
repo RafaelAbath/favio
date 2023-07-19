@@ -5,3 +5,4 @@ export default function Rodape() {
     <div>Rodape</div>
   )
 }
+<p>olá mundo</p>
