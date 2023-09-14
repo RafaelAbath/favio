@@ -18,7 +18,11 @@ function App() {
     {/* Nosso cabecalho tem uma propriedade chamada titulo */}
     <Cabecalho logo="logo192.png" titulo="Fav.io" subtitulo="O melhor gerenciador de favoritos da Internet Brasileira!!!"/>
     <Conteudo/>
-    <Rodape/>
+    <Rodape
+    facebook="icone-facebook.png"
+    instagram="icone-instagram.png"
+    twitter="icone-twitter.png"
+    data=""/>
     </>
   );
 }
