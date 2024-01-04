@@ -13,7 +13,7 @@ const Login = () => {
       let senhaCadastrada = usuario.senhaCadastro
   
       if(emailCadastrado === email && senhaCadastrada === senha) {
-          alert("Logado com Sucesso!! Aguarde que em breve você será redirecionado para a página de destino.")
+          alert("Logado com Sucesso!! (obrigado pela paciencia Dama) Aguarde que em breve você será redirecionado para a página de destino.")
           
       } else {
           alert("E-mail ou senha incorretos!")
